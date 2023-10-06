@@ -1,0 +1,19 @@
+.header {
+    background: linear-gradient(195deg, #770202, #000000) !important;
+    color: #fbe903 !important;
+}
+
+.container {
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.bannerTitle {
+    font-size: 4.5rem !important;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000000;
+}

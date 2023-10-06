@@ -1,0 +1,25 @@
+.parallaxGrid {
+    min-height: 75vh;
+}
+
+.bgImage {
+    margin-left: -16px;
+    margin-right: -16px;
+}
+
+.mainGrid {
+    line-height: 0.5;
+}
+
+.secondTitle {
+    /* stroke-width: 3px black double; */
+    /* stroke-color: ; */
+    /* color: #fffb00; */
+}
+
+.title {
+    /* font-family: ; */
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #344767;
+    color: transparent !important;
+}

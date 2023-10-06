@@ -1,0 +1,9 @@
+.mapFrame {
+    height: 550px;
+}
+
+@media only screen and (max-width: 767px) {
+    .mapFrame {
+        height: 350px;
+    }
+}

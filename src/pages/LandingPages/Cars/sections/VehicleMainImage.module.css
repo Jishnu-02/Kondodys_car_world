@@ -1,0 +1,4 @@
+.banner_img {
+    object-fit: cover;
+    max-height: 600px   ;
+}

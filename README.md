@@ -1,47 +1,43 @@
-# [Vue Material Kit 2](http://demos.creative-tim.com/vue-material-kit/#/?ref=readme-vmk) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-material-kit&text=Check%20Vue%20Material%20kit%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#vue%20https://www.creative-tim.com/product/vue-material-kit)
+# [Material Kit 2 React](http://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-kit-react&text=Check%20Material%20kit%20React%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#react%20https://www.creative-tim.com/product/material-kit-react)
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vue-material-kit.svg)](https://github.com/creativetimofficial/vue-material-kit/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vue-material-kit.svg)](https://github.com/creativetimofficial/vue-material-kit/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-kit-react.svg)](https://github.com/creativetimofficial/material-kit-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-kit-react.svg)](https://github.com/creativetimofficial/material-kit-react/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/97/original/vue-material-kit-2.jpg)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/83/original/material-kit-2-react.jpg)
 
-Vue Material Kit 2 is our newest free VueJS Design System. Its amazing design is inspired by Material Design and contains all the components you need for your development. If you’re a developer looking to create good-looking websites, rich with features, and highly customisable, here is your match.
+Material Kit 2 React is our newest free MUI Design System based on React. Its amazing design is inspired by Material Design and contains all the components you need for your development. If you’re a developer looking to create good-looking websites, rich with features, and highly customisable, here is your match.
 
-**Fully Coded Elements**
+_Fully Coded Elements_
+Material Kit 2 React is built with over 40 frontend individual elements, like buttons, inputs, navbars, alerts or cards, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using MUI styled() API and sx prop. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 
-Vue Material Kit 2 is built with over 70 frontend individual elements, like buttons, inputs, navbars, alerts or cards, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
-
-This free VueJS 3 & Bootstrap 5 template is coming with pre-built design blocks, so the development process is seamless,
+This free MUI & React template is coming with pre-built design blocks, so the development process is seamless,
 switching from our pages to the real website is very easy to be done.
-View [all components here.](https://www.creative-tim.com/learning-lab/vue/alerts/material-kit/)
+View all components here. (https://www.creative-tim.com/learning-lab/react/alerts/material-kit/)
 
-**Documentation built by Developers**
-
+_Documentation built by Developers_
 Each element is well presented in very complex documentation.
-You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/).
+You can read more about the documentation here (https://www.creative-tim.com/learning-lab/react/overview/material-kit/).
 
-**Example Pages**
-
+_Example Pages_
 If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
-View [example pages here.](https://demos.creative-tim.com/vue-material-kit/)
+View example pages here. (https://demos.creative-tim.com/material-kit-react/#/pages/landing-pages/about-us)
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/creativetimofficial/vue-material-kit)
+- View [Github Repository](https://github.com/creativetimofficial/material-kit-react)
 - Check [FAQ Page](https://www.creative-tim.com/faq)
 
 #### Special thanks
 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
-- [VueJS 3](https://vuejs.org/) - An approachable, performant and versatile framework for building web user interfaces.
-- [Bootstrap 5](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
-- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
-- [Pinia](https://pinia.vuejs.org/) - The Vue Store that you will enjoy using.
-- [PrismJS](https://prismjs.com/) - A lightweight and extensible syntax highlighter.
-- [TypedJS](https://mattboldt.com/demos/typed-js/) - A JavaScript Typing Animation Library.
-- [Vue Clipboard 3](https://github.com/JamieCurnow/vue-clipboard3) - Easily copy to clipboard in Vue 3.
-- [Vue Count To](http://panjiachen.github.io/countTo/demo/) - A dependency-free, lightweight vue component for count up.
+- [MUI](https://mui.com/) - The React UI library for faster and easier web development.
+- [React Flatpickr](https://github.com/haoxins/react-flatpickr) - Useful library used to select date.
+- [React Copy to Clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Useful library used for copying data to the clipboard.
+- [React Countup](https://github.com/glennreyes/react-countup) - A lightweight React component that can be used to quickly create animations that display numerical data in a more interesting way.
+- [React Syntax Highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - Syntax highlighting component for react with prismjs or highlightjs ast using inline styles.
+- [ChromaJS](https://gka.github.io/chroma.js/) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
+- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Kit 2 React. You can use it to gain insights into your sources of traffic.
 
 Let us know your thoughts below. And good luck with development!
 
@@ -61,26 +57,27 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-react?ref=readme-mkr)
 
-| VueJS |
+| React |
 | ----- |
 
-| [![Vue Material Dashboard 2 PRO](https://s3.amazonaws.com/creativetim_bucket/products/97/thumb/vue-material-kit-2.jpg)](http://demos.creative-tim.com/vue-material-kit/?ref=readme-vmk)
+| [![Material Kit 2 React](https://s3.amazonaws.com/creativetim_bucket/products/83/thumb/material-kit-2-react.jpg)](http://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr)
 
 ## Demo
 
-- [Landing page](https://demos.creative-tim.com/vue-material-kit/#/pages/landing-pages/about-us?ref=readme-mkrp)
-- [Author page](https://demos.creative-tim.com/vue-material-kit/#/pages/landing-pages/author?ref=readme-mkrp)
-- [Sign in page](https://demos.creative-tim.com/vue-material-kit/#/pages/landing-pages/basic?ref=readme-mkrp)
+- [About Us](https://demos.creative-tim.com/material-kit-react/#/pages/landing-pages/about-us?ref=readme-mkr)
+- [Contact Us](https://demos.creative-tim.com/material-kit-react/#/pages/landing-pages/contact-us?ref=readme-mkr)
+- [Author](https://demos.creative-tim.com/material-kit-react/#/pages/landing-pages/author?ref=readme-mkr)
+- [Pricing page](https://demos.creative-tim.com/material-kit-react/#/pages/authentication/sign-in?ref=readme-mkr)
 
-[View More](https://demos.creative-tim.com/vue-material-kit/#/?ref=readme-mkp).
+[View More](https://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr).
 
 ## Quick start
 
 Quick start options:
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk).
+- Download from [Creative Tim](https://www.creative-tim.com/product/material-kit-react?ref=readme-mkr).
 
 ## Terminal Commands
 
@@ -89,43 +86,50 @@ Quick start options:
 
 ## Documentation
 
-The documentation for the Material Kit is hosted at our [website](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/?ref=readme-vmk).
+The documentation for the Material Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/material-kit/?ref=readme-mkr).
 
 ### What's included
 
 Within the download you'll find the following directories and files:
 
 ```
-vue-material-kit-2
+material-kit-2-react
     ├── public
+    │   ├── apple-icon.png
+    │   ├── favicon.png
+    │   ├── index.html
+    │   ├── manifest.json
+    │   └── robots.txt
     ├── src
     │   ├── assets
-    │   │   ├── css
-    │   │   ├── fonts
-    │   │   ├── img
-    │   │   ├── js
-    │   │   └── scss
+    │   │   ├── images
+    │   │   ├── theme
+    │   │   │   ├── base
+    │   │   │   ├── components
+    │   │   │   ├── functions
+    │   │   └── └── index.js
     │   ├── components
-    │   │   ├── MaterialAlert.vue
-    │   │   ├── MaterialAvatar.vue
-    │   │   ├── MaterialBadge.vue
-    │   │   ├── MaterialButton.vue
-    │   │   ├── MaterialCheckbox.vue
-    │   │   ├── MaterialInput.vue
-    │   │   ├── MaterialPagination.vue
-    │   │   ├── MaterialPaginationItem.vue
-    │   │   ├── MaterialProgress.vue
-    │   │   ├── MaterialSocialButton.vue
-    │   │   ├── MaterialSwitch.vue
-    │   │   └── MaterialTextArea
+    │   │   ├── MKAlert
+    │   │   ├── MKAvatar
+    │   │   ├── MKBadge
+    │   │   ├── MKBox
+    │   │   ├── MKButton
+    │   │   ├── MKDatePicker
+    │   │   ├── MKInput
+    │   │   ├── MKPagination
+    │   │   ├── MKrogress
+    │   │   ├── MKSocialButton
+    │   │   └── MKTypography
     │   ├── examples
-    │   │   ├── cards
-    │   │   ├── footers
-    │   │   ├── navbars
-    │   │   ├── tables
-    │   │   ├── Breadcrumbs.vue
-    │   │   └── Header.vue
+    │   │   ├── Breadcrumbs
+    │   │   ├── Cards
+    │   │   ├── Footer
+    │   │   └── Navbars
     │   ├── layouts
+    │   │   ├── pages
+    │   │   │    ├── authentication
+    │   │   │    ├── landing-pages
+    │   │   │    └── presentation
     │   │   ├── sections
     │   │   │    ├── attention-catchers
     │   │   │    ├── components
@@ -133,23 +137,20 @@ vue-material-kit-2
     │   │   │    ├── input-areas
     │   │   │    ├── navigation
     │   │   └──  └── page-sections
-    │   ├── router
-    │   ├── stores
-    │   ├── views
+    │   ├── pages
     │   │   ├── LandingPages
     │   │   └── Presentation
-    │   ├── App.vue
-    │   ├── main.js
-    │   └── material-kit.js
+    │   ├── App.js
+    │   ├── index.js
+    │   ├── footer.routes.js
+    │   └── routes.js
     ├── .eslintrc.json
-    ├── .gitignore
+    ├── .prettierrc.json
     ├── CHANGELOG.md
     ├── ISSUE_TEMPLATE.md
-    ├── LICENSE.md
-    ├── index.html
+    ├── jsconfig.json
     ├── package.json
-    ├── README.md
-    └── vite.config.js
+    └── README.md
 ```
 
 ## Browser Support
@@ -160,39 +161,40 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- [Live Preview](https://demos.creative-tim.com/vue-material-kit/#/?ref=readme-vmk)
-- [Buy Page](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/?ref=readme-vmk)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-vmk)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-vmk)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/vue-material-kit/issues)
+- [Live Preview](https://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr)
+- [Buy Page](https://www.creative-tim.com/product/material-kit-react?ref=readme-mkr)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/material-kit/?ref=readme-mkr)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-mkr)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-mkr)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-kit-react/issues)
+- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Vue Material Kit 2. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Material Kit 2 React. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Vue Material Kit 2. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk).
+1. Make sure that you are using the latest version of the Material Kit 2 React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-kit-react?ref=readme-mkr).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-vmk) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-mkr) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-vmk)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-vmk)
+- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-mkr)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-mkr)
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/templates?ref=readme-vmk) from Creative Tim
+- [More products](https://www.creative-tim.com/templates?ref=readme-mkr) from Creative Tim
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-vmk) from Creative Tim
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-mkr) from Creative Tim
 
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-vmk) (earn money)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-mkr) (earn money)
 
 ##### Social Media
 

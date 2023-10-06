@@ -1,0 +1,47 @@
+.instagram {
+    background: radial-gradient(
+        circle farthest-corner at 28% 100%,
+        #fdf497 -17%,
+        #fdf497 -25%,
+        #fd5949 28%,
+        #d6249f 60%,
+        #285AEB 119%
+      ) !important;
+}
+
+.instagram:hover {
+    box-shadow: 0rem 0.875rem 1.625rem -0.75rem rgb(217 3 3 / 64%), 0rem 0.25rem 1.4375rem 0rem rgb(255 92 92 / 37%), 0rem 0.5rem 0.625rem -0.3125rem rgb(192 0 140 / 20%) !important;
+}
+
+.call {
+    background: linear-gradient(195deg, #a4b3c1, #585f69) !important;
+}
+
+.call:hover {
+    box-shadow: 0rem 0.875rem 1.625rem -0.75rem rgb(0 0 0 / 64%), 0rem 0.25rem 1.4375rem 0rem rgb(0 0 0 / 15%), 0rem 0.5rem 0.625rem -0.3125rem rgb(0 0 0 / 20%) !important; 
+}
+
+.title {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #344767;
+    color: transparent !important;
+}
+
+.iconGrid {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+.socialMedia {
+    max-width: 200px !important;
+    width: 100% !important;
+    margin-bottom: 10px !important;
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.socialMedia:hover svg{
+    transition:.5s ease-in-out !important;
+    rotate: 360deg;
+}

@@ -1,0 +1,11 @@
+.image_container {
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+
+.image_grid {
+    height: 350px;
+    object-fit: cover;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px black;
+}

@@ -1,0 +1,76 @@
+.parallaxGrid {
+    min-height: 75vh;
+}
+
+.bgImage {
+    margin-left: -16px;
+    margin-right: -16px;
+}
+
+.mainGrid {
+    line-height: 0.5;
+}
+
+.secondTitle {
+    stroke-width: 3px black double;
+    /* stroke-color: ; */
+    color: #fffb00;
+}
+
+.title {
+    /* font-family: ; */
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #fffb00;
+    color: transparent !important;
+}
+
+.parallaxDiv {
+   min-height: 75vh;
+   background-image: url(../../../../assets/images/parallax/mainpage-parallax.jpeg);
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-size: 21px;
+}
+
+.parallaxDiv p {
+    padding: 20px;
+}
+
+.button {
+    padding: 20px;
+}
+.button a{
+    font-size: 21px;
+    padding: 10px 30px;
+    /* border: 2px solid aqua; */
+    /* background: transparent; */
+}
+
+@media only screen and (max-width: 991px){
+    .parallaxDiv p {
+        padding: 0px;
+    }
+}
+
+         
+.btnGrad {
+    background-image: linear-gradient(to right, #000000 0%, #F09819  51%, #fffb00  100%) !important;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white !important;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    /* display: block; */
+  }
+
+  .btnGrad:hover {
+    background-position: right center !important; /* change the direction of the change here */
+    color: #000000 !important;
+    text-decoration: none !;
+    transition: 0.8s;
+    scale: 1.1;
+  }
+ 
